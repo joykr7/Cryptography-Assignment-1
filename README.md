@@ -1,7 +1,7 @@
 # Number Theory and Cryptography Workshop
 
-**Name:** YOUR NAME  
-**Student ID:** YOUR STUDENT ID  
+**Name:** Joy Karmoker  
+**Student ID:** IT23014 
 **Workshop:** Introduction to Number Theory and Cryptography  
 **Reference Repository:** [mnp-club/Number_Theory_and_Cryptography_Workshop](https://github.com/mnp-club/Number_Theory_and_Cryptography_Workshop)
 
